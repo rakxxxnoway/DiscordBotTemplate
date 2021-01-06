@@ -58,7 +58,7 @@ async def help(ds):
     )
     embed.set_author(name=help_embed_title) 
     
-    # embed.add_field(name="``` ```", value="", inline=inline_set) <- :: Copy this and insert into command name and info about command :: 
+    # embed.add_field(name="``` ```", value="", inline=inline_set) <- :: Copy this and insert command name into name field and command description into value field. P.S ``` is for decoration :: 
 
     inline_set = False          # Do you want your output on the same line? Set True; If you want it as a list - set False 
 
