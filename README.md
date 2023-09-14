@@ -1,10 +1,11 @@
-# discordbotmanual
-Manual for Bot | Created by Rak
+# DiscordBotSample
+Created by Rak
 
-This is a empty discord bot project! Created for save some time with starting with a own bot.
-For usage u will need to install discord.py
+This is an empty structured bot for discord written with discord Python API
+For usage u will need to install discord.py:
+*pip install discord.py*
 
-**A discord Bot Manual -** take this code and create your own discord bot
+**A discord Bot Manual -** copy&paste this code and add your own commands 
 
 **P.S**
-You will more informartion in bot.py file. I left it in comments
+Read comments for more information
